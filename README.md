@@ -28,3 +28,5 @@ OpenGL-based 3D-model viewer with support of .stl, .json and partial support of 
 
 
 ![Colorization example 2](https://github.com/superkirill/OpenGL_viewer/blob/master/examples/colorization2.png?raw=true)
+
+5. **Rotations, translations and zooming** using the mouse
